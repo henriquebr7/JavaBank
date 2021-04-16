@@ -2,6 +2,6 @@
 
 Projeto em Java com objetivo de simular operações bancárias.
 
-Requisitos| 
+Requisitos: Java 8. Eclipse-neon-3.
 ---------------  
-  Java 8.| Eclipse-neon-3.
+  
